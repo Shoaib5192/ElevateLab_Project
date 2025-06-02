@@ -10,6 +10,18 @@ Perform basic data cleaning and formatting
 
 Generate summary statistics
 
-Visualize distributions, correlations, and outliers
+Checked shape, column types, null values
 
-Identify initial patterns for further analysis
+Reviewed unique values in categorical columns
+
+Handled missing or zero income values
+
+Converted date columns to datetime format
+
+Dropped constant or uninformative columns (Z_CostContact, Z_Revenue)
+
+# Tool Used
+
+Pandas
+
+Seaborn
